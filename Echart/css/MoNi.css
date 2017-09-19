@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px 0.15rem;
+    background-color: #021727;
+}
+.box{
+
+    height: auto;
+    padding: 0.2rem;
+    border: 1px solid #005883;
+    border-radius: 4px;
+    margin-top: 0.5rem;
+}
+#Top{
+    width: 100%;
+    height: 2.6rem;
+}
+.bottom{
+    margin-top: 0.2rem;
+
+}
+.Title{
+    height: 0.6rem;
+    line-height: 0.6rem;
+    text-align: center;
+    color: #0DA8DB;
+    font-size: 14px;
+}
+/*.position{*/
+    /*width: 100%;*/
+    /*height: 3rem;*/
+    /*position: relative;*/
+    /*background-color: #0DA8DB;*/
+/*}*/
+.forms{
+    height: 3rem;
+    z-index: 999;
+}

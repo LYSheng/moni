@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/*#box{*/
+/*width: 50%;*/
+/*float: left;*/
+/*height: 400px;*/
+/*background-color: #4cae4c;*/
+
+/*}*/
+#main{
+    width: 100%;
+    float: left;
+    height: 300px;
+}
